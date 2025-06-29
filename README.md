@@ -28,6 +28,7 @@ Visualizations including bar charts, pie charts, and donut charts
 Dynamic, user-driven reports with real-time updates
 
 Clean, professional layout designed for ease of interpretation
+ 
 6️⃣ Screenshots / Demos
 
 https://github.com/naveeeee11/E-commerce-dashboard/blob/main/snapshot%20of%20dashboard.png
